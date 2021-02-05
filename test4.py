@@ -1,0 +1,5 @@
+num1 = input('Input First number')
+num2 = input('Input Second number')
+print(num1,'=' ,num2 ,num1==num2)
+print(num1,'>' ,num2 ,num1>num2)
+print(num1,'<' ,num2 ,num1<num2)

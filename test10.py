@@ -1,0 +1,13 @@
+print('โปรเเกรมหยิบสินค้าใส่ตระกร้า')
+list =[]
+list.append (input('หยิบสินค้าชิ้นที่1'))
+list.append (input('หยิบสินค้าชิ้นที่2'))
+list.append (input('หยิบสินค้าชิ้นที่3'))
+list.append (input('หยิบสินค้าชิ้นที่4'))
+list.append (input('หยิบสินค้าชิ้นที่5'))
+print("สินค้าที่อยู่ในตระกร้ามีดังนี้")
+print('1',list[1])
+print('2',list[2])
+print('3',list[3])
+print('4',list[4])
+print('5',list[5])
